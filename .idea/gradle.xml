@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/routing/receiver" />
             <option value="$PROJECT_DIR$/routing/sender" />
             <option value="$PROJECT_DIR$/topic" />
+            <option value="$PROJECT_DIR$/topic/receiver" />
             <option value="$PROJECT_DIR$/topic/sender" />
             <option value="$PROJECT_DIR$/workQueue" />
             <option value="$PROJECT_DIR$/workQueue/receiver" />
