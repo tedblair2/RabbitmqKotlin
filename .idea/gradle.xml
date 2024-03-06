@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/first" />
+            <option value="$PROJECT_DIR$/first/receiver" />
+            <option value="$PROJECT_DIR$/first/sender" />
+            <option value="$PROJECT_DIR$/pubsub" />
+            <option value="$PROJECT_DIR$/pubsub/receiver" />
+            <option value="$PROJECT_DIR$/pubsub/sender" />
+            <option value="$PROJECT_DIR$/routing" />
+            <option value="$PROJECT_DIR$/routing/receiver" />
+            <option value="$PROJECT_DIR$/routing/sender" />
+            <option value="$PROJECT_DIR$/topic" />
+            <option value="$PROJECT_DIR$/topic/sender" />
+            <option value="$PROJECT_DIR$/workQueue" />
+            <option value="$PROJECT_DIR$/workQueue/receiver" />
+            <option value="$PROJECT_DIR$/workQueue/sender" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
